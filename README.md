@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-Go to project directory "template" write "npm install" to install dependencies and write "npm run dev" to start the Project.
+Go to project directory "RRTS" write "npm install" to install dependencies and write "npm run dev" to start the Project.
 
 I made this Template because i was too lazy to always configure or install Tailwind,Shad Cn and making routes So i thought maybe some of my fellow devs Feel the Same way 🎃
 
