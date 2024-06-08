@@ -1,8 +1,8 @@
 
 const Home = () => {
   return (
-    <div>
-     Home
+    <div className="text-lg text-orange-400 ">
+     We are at Home 🎃
     </div>
   );
 };
